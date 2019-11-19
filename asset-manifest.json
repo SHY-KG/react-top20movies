@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react_top20movies/static/js/main.32a80139.chunk.js",
+    "main.js.map": "/react_top20movies/static/js/main.32a80139.chunk.js.map",
+    "runtime-main.js": "/react_top20movies/static/js/runtime-main.f07a4606.js",
+    "runtime-main.js.map": "/react_top20movies/static/js/runtime-main.f07a4606.js.map",
+    "static/js/2.830d2a7b.chunk.js": "/react_top20movies/static/js/2.830d2a7b.chunk.js",
+    "static/js/2.830d2a7b.chunk.js.map": "/react_top20movies/static/js/2.830d2a7b.chunk.js.map",
+    "index.html": "/react_top20movies/index.html",
+    "precache-manifest.97a296244c6b5e0ff7b825f77891d47e.js": "/react_top20movies/precache-manifest.97a296244c6b5e0ff7b825f77891d47e.js",
+    "service-worker.js": "/react_top20movies/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07a4606.js",
+    "static/js/2.830d2a7b.chunk.js",
+    "static/js/main.32a80139.chunk.js"
+  ]
+}
