@@ -10,3 +10,6 @@ yarn
 yarn start
 ```
 That`s it.
+
+# Page
+https://shy-kg.github.io/react_top20movies/
