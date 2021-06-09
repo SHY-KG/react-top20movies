@@ -5,9 +5,9 @@ Use Movie Info API with react
 The Rating Movie on Top 20
 
 # How to
-```
-yarn
-yarn start
+```bash
+npm
+npm run start
 ```
 
 # Page
