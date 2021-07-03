@@ -8,6 +8,7 @@ const LoaderDiv: React.FC = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #fff;
 `;
 
 const Loader: React.FC = () => <LoaderDiv>Now Loading...</LoaderDiv>;

@@ -17,5 +17,5 @@ export interface IGetMovie {
 // Constainer
 export type MovieProps = Pick<
   IGetMovie,
-  'background_image' | 'year' | 'rating' | 'title' | 'summary'
+  'medium_cover_image' | 'year' | 'rating' | 'title' | 'summary'
 >;
