@@ -15,4 +15,4 @@ npm run start
 
 # Page
 
-https://shy-kg.github.io/react_top20movies/
+https://shy-kg.github.io/react-top20movies/
